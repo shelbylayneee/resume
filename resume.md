@@ -1,9 +1,9 @@
 # **Shelby Layne**
 Geophysical Engineering Student 
 - shelby_layne@mines.edu (hyperlink)
-- Golden, CO
+- Golden, CO    
 [linkedin](www.linkedin.com/in/shelby-layne133)
-![Colorado School of Mines Logo](https://weare.mines.edu/s/840/index.aspx?sid=840&gid=1&pgid=783)
+![Colorado School of Mines Logo](https://weare.mines.edu/s/840/images/editor/logos/mines-logo-stacked-co-school-of-blue.jpg)
 
 ## Education (bold)
 - Colorado School of Mines (August 2024 - May 2028)
