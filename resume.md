@@ -3,11 +3,12 @@ Geophysical Engineering Student
 - shelby_layne@mines.edu
 - Golden, CO    
 - [linkedin](www.linkedin.com/in/shelby-layne133)
+
 ![Colorado School of Mines Logo](https://weare.mines.edu/s/840/images/editor/logos/mines-logo-stacked-co-school-of-blue.jpg)
 
 ## **Education**
-- Colorado School of Mines (August 2024 - May 2028)
-	B.S. Geophysical engineering 
+- Colorado School of Mines (August 2024 - May 2028)    
+	B.S. Geophysical engineering    
 	GPA: 3.966 | President's Merit Scholarship Recipient
 
 ## **Experience**
@@ -22,7 +23,7 @@ organization.
 	- Responsible for childcare, transportation, and mentorship for two middle school students.
 
 ## **Engineering Projects**
-- ** Cornerstone Design Project - Class Winner (2025)**
+- **Cornerstone Design Project - Class Winner (2025)**
 	- Designed a device enabling amputees and disabled individuals to put on jewelry
 independently. Worked on the project for four months with three other students.
 	- Presented the project at the Cornerstone Design Final Competition to judges and peers.
