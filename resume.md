@@ -8,8 +8,8 @@ Geophysical Engineering Student
 
 ## **Education**
 - Colorado School of Mines (August 2024 - May 2028)    
-	B.S. Geophysical engineering    
-	GPA: 3.966 | President's Merit Scholarship Recipient
+	- B.S. Geophysical engineering    
+	- GPA: 3.966 | President's Merit Scholarship Recipient
 
 ## **Experience**
 - **Alpha Phi Sorority - Director of Primary Recruitment (2025 - Present)**
