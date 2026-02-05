@@ -5,20 +5,20 @@ Geophysical Engineering Student
 [linkedin](www.linkedin.com/in/shelby-layne133)
 ![Colorado School of Mines Logo](https://weare.mines.edu/s/840/images/editor/logos/mines-logo-stacked-co-school-of-blue.jpg)
 
-## Education (bold)
+## **Education**
 - Colorado School of Mines (August 2024 - May 2028)
 	B.S. Geophysical engineering 
 	GPA: 3.966
 
-## Experience (bold)
-- Alpha Phi Sorority - Director of Primary Recruitment (2025 - Present)
-- Alpha Phi Sorority - Director of Housing (2024 - 2025)
+## **Experience**
+- **Alpha Phi Sorority** - Director of Primary Recruitment (2025 - Present)
+- **Alpha Phi Sorority** - Director of Housing (2024 - 2025)
 - Childcare Provider (2025 - Present)
 
-## Engineering Projects (Bold)
+## **Engineering Projects**
 - Cornerstone Design Project - Class Winner (2025)
 
-## Skills (bold)
-- Software & Tools: Python, Matplotlib, SolidWorks
-- Engineering Skills: Design thinking, prototyping, data interpretation, problem-solving
-- Professional Skills: Project coordination, team collaboration, event planning, leadership,communication
+## **Skills**
+- **Software & Tools:** Python, Matplotlib, SolidWorks
+- **Engineering Skills:** Design thinking, prototyping, data interpretation, problem-solving
+- **Professional Skills:** Project coordination, team collaboration, event planning, leadership,communication
